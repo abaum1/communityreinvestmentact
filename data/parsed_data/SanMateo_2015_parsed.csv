@@ -1,157 +1,157 @@
-,Tract,Year,County,type,CRA Eligible,"% HI borrower, LI tract","# HI borrower, LI tract","% HI borrower, HI tract","# HI borrower, HI tract","% LI borrower, LI tract","# LI borrower, LI tract","%LI borrower, HI tract","# LI borrower, HI tract"
-0,6001.0,2015,San Mateo County,mid,not eligible,0.0,0,0.9850746268656716,132,0.0,0,0.014925373134328358,2
-1,6002.0,2015,San Mateo County,mod,eligible,0.85,17,0.0,0,0.15,3,0.0,0
-2,6003.0,2015,San Mateo County,mid,not eligible,0.0,0,0.926829268292683,38,0.0,0,0.07317073170731707,3
-3,6004.01,2015,San Mateo County,mid,not eligible,0.0,0,0.8461538461538461,44,0.0,0,0.15384615384615385,8
-4,6004.02,2015,San Mateo County,mid,not eligible,0.0,0,0.8888888888888888,24,0.0,0,0.1111111111111111,3
-5,6005.0,2015,San Mateo County,mid,not eligible,0.0,0,0.9512195121951219,78,0.0,0,0.04878048780487805,4
-6,6006.0,2015,San Mateo County,mod,eligible,0.9032258064516129,28,0.0,0,0.0967741935483871,3,0.0,0
-7,6007.0,2015,San Mateo County,mid,not eligible,0.0,0,0.96875,31,0.0,0,0.03125,1
-8,6008.0,2015,San Mateo County,mod,eligible,1.0,8,0.0,0,0.0,0,0.0,0
-9,6009.0,2015,San Mateo County,mid,not eligible,0.0,0,1.0,35,0.0,0,0.0,0
-10,6010.0,2015,San Mateo County,mid,not eligible,0.0,0,0.9719626168224299,104,0.0,0,0.028037383177570093,3
-11,6011.0,2015,San Mateo County,mid,not eligible,0.0,0,0.9375,30,0.0,0,0.0625,2
-12,6012.0,2015,San Mateo County,mid,not eligible,0.0,0,0.9361702127659575,44,0.0,0,0.06382978723404255,3
-13,6013.0,2015,San Mateo County,mod,eligible,0.8125,26,0.0,0,0.1875,6,0.0,0
-14,6014.0,2015,San Mateo County,mid,not eligible,0.0,0,0.8867924528301887,47,0.0,0,0.11320754716981132,6
-15,6015.01,2015,San Mateo County,mid,not eligible,0.0,0,0.9047619047619048,19,0.0,0,0.09523809523809523,2
-16,6015.02,2015,San Mateo County,mod,eligible,0.95,19,0.0,0,0.05,1,0.0,0
-17,6016.01,2015,San Mateo County,mid,not eligible,0.0,0,0.66,33,0.0,0,0.34,17
-18,6016.03,2015,San Mateo County,mid,not eligible,0.0,0,0.8983050847457628,53,0.0,0,0.1016949152542373,6
-19,6016.04,2015,San Mateo County,mid,not eligible,0.0,0,0.7888888888888889,71,0.0,0,0.2111111111111111,19
-20,6016.05,2015,San Mateo County,mid,not eligible,0.0,0,0.9393939393939394,31,0.0,0,0.06060606060606061,2
-21,6017.0,2015,San Mateo County,mid,not eligible,0.0,0,1.0,25,0.0,0,0.0,0
-22,6018.0,2015,San Mateo County,mid,not eligible,0.0,0,0.9230769230769231,60,0.0,0,0.07692307692307693,5
-23,6019.01,2015,San Mateo County,mid,not eligible,0.0,0,0.972972972972973,36,0.0,0,0.02702702702702703,1
-24,6019.02,2015,San Mateo County,mid,not eligible,0.0,0,0.8333333333333334,25,0.0,0,0.16666666666666666,5
-25,6020.0,2015,San Mateo County,mid,not eligible,0.0,0,0.9586776859504132,116,0.0,0,0.04132231404958678,5
-26,6021.0,2015,San Mateo County,mod,eligible,1.0,19,0.0,0,0.0,0,0.0,0
-27,6022.0,2015,San Mateo County,mod,eligible,0.9615384615384616,25,0.0,0,0.038461538461538464,1,0.0,0
-28,6023.0,2015,San Mateo County,mid,not eligible,0.0,0,0.9705882352941176,33,0.0,0,0.029411764705882353,1
-29,6024.0,2015,San Mateo County,mid,not eligible,0.0,0,0.9791666666666666,47,0.0,0,0.020833333333333332,1
-30,6025.0,2015,San Mateo County,high,not eligible,0.0,0,0.9473684210526315,72,0.0,0,0.05263157894736842,4
-31,6026.0,2015,San Mateo County,mid,not eligible,0.0,0,0.9390243902439024,77,0.0,0,0.06097560975609756,5
-32,6027.0,2015,San Mateo County,mid,not eligible,0.0,0,0.967741935483871,60,0.0,0,0.03225806451612903,2
-33,6028.0,2015,San Mateo County,mid,not eligible,0.0,0,1.0,68,0.0,0,0.0,0
-34,6029.0,2015,San Mateo County,mid,not eligible,0.0,0,0.9523809523809523,40,0.0,0,0.047619047619047616,2
-35,6030.0,2015,San Mateo County,mid,not eligible,0.0,0,0.9411764705882353,48,0.0,0,0.058823529411764705,3
-36,6031.0,2015,San Mateo County,high,not eligible,0.0,0,0.98,49,0.0,0,0.02,1
-37,6032.0,2015,San Mateo County,mid,not eligible,0.0,0,0.9615384615384616,50,0.0,0,0.038461538461538464,2
-38,6033.0,2015,San Mateo County,mid,not eligible,0.0,0,0.963963963963964,107,0.0,0,0.036036036036036036,4
-39,6034.0,2015,San Mateo County,high,not eligible,0.0,0,0.9076923076923077,59,0.0,0,0.09230769230769231,6
-40,6037.0,2015,San Mateo County,mid,not eligible,0.0,0,1.0,38,0.0,0,0.0,0
-41,6038.01,2015,San Mateo County,mid,not eligible,0.0,0,0.5844155844155844,45,0.0,0,0.4155844155844156,32
-42,6038.02,2015,San Mateo County,mid,not eligible,0.0,0,1.0,42,0.0,0,0.0,0
-43,6039.0,2015,San Mateo County,mid,not eligible,0.0,0,0.9516129032258065,59,0.0,0,0.04838709677419355,3
-44,6040.0,2015,San Mateo County,mid,not eligible,0.0,0,1.0,38,0.0,0,0.0,0
-45,6041.01,2015,San Mateo County,mod,eligible,0.9027777777777778,65,0.0,0,0.09722222222222222,7,0.0,0
-46,6041.02,2015,San Mateo County,mid,not eligible,0.0,0,0.8611111111111112,31,0.0,0,0.1388888888888889,5
-47,6042.0,2015,San Mateo County,mod,eligible,0.8709677419354839,27,0.0,0,0.12903225806451613,4,0.0,0
-48,6044.0,2015,San Mateo County,mid,not eligible,0.0,0,0.9791666666666666,47,0.0,0,0.020833333333333332,1
-49,6045.0,2015,San Mateo County,mid,not eligible,0.0,0,1.0,38,0.0,0,0.0,0
-50,6046.0,2015,San Mateo County,mid,not eligible,0.0,0,1.0,45,0.0,0,0.0,0
-51,6047.0,2015,San Mateo County,high,not eligible,0.0,0,1.0,27,0.0,0,0.0,0
-52,6048.0,2015,San Mateo County,mid,not eligible,0.0,0,1.0,41,0.0,0,0.0,0
-53,6049.0,2015,San Mateo County,mid,not eligible,0.0,0,0.975609756097561,40,0.0,0,0.024390243902439025,1
-54,6050.0,2015,San Mateo County,high,not eligible,0.0,0,1.0,80,0.0,0,0.0,0
-55,6051.0,2015,San Mateo County,high,not eligible,0.0,0,1.0,26,0.0,0,0.0,0
-56,6052.0,2015,San Mateo County,high,not eligible,0.0,0,1.0,47,0.0,0,0.0,0
-57,6053.0,2015,San Mateo County,high,not eligible,0.0,0,1.0,41,0.0,0,0.0,0
-58,6054.0,2015,San Mateo County,mid,not eligible,0.0,0,0.9838709677419355,61,0.0,0,0.016129032258064516,1
-59,6055.0,2015,San Mateo County,mid,not eligible,0.0,0,0.98,49,0.0,0,0.02,1
-60,6056.0,2015,San Mateo County,high,not eligible,0.0,0,1.0,62,0.0,0,0.0,0
-61,6057.0,2015,San Mateo County,high,not eligible,0.0,0,1.0,60,0.0,0,0.0,0
-62,6058.0,2015,San Mateo County,high,not eligible,0.0,0,1.0,33,0.0,0,0.0,0
-63,6059.0,2015,San Mateo County,mod,eligible,0.9270833333333334,89,0.0,0,0.07291666666666667,7,0.0,0
-64,6060.0,2015,San Mateo County,mid,not eligible,0.0,0,0.8953488372093024,77,0.0,0,0.10465116279069768,9
-65,6061.0,2015,San Mateo County,mid,not eligible,0.0,0,0.9322033898305084,55,0.0,0,0.06779661016949153,4
-66,6062.0,2015,San Mateo County,mod,eligible,0.9310344827586207,54,0.0,0,0.06896551724137931,4,0.0,0
-67,6063.0,2015,San Mateo County,mid,not eligible,0.0,0,0.9512195121951219,39,0.0,0,0.04878048780487805,2
-68,6064.0,2015,San Mateo County,high,not eligible,0.0,0,0.9074074074074074,49,0.0,0,0.09259259259259259,5
-69,6065.0,2015,San Mateo County,high,not eligible,0.0,0,1.0,41,0.0,0,0.0,0
-70,6066.0,2015,San Mateo County,high,not eligible,0.0,0,1.0,40,0.0,0,0.0,0
-71,6067.0,2015,San Mateo County,high,not eligible,0.0,0,1.0,47,0.0,0,0.0,0
-72,6068.0,2015,San Mateo County,high,not eligible,0.0,0,1.0,52,0.0,0,0.0,0
-73,6069.0,2015,San Mateo County,high,not eligible,0.0,0,1.0,33,0.0,0,0.0,0
-74,6070.0,2015,San Mateo County,high,not eligible,0.0,0,1.0,49,0.0,0,0.0,0
-75,6071.0,2015,San Mateo County,high,not eligible,0.0,0,1.0,63,0.0,0,0.0,0
-76,6072.0,2015,San Mateo County,mid,not eligible,0.0,0,1.0,30,0.0,0,0.0,0
-77,6073.0,2015,San Mateo County,high,not eligible,0.0,0,1.0,43,0.0,0,0.0,0
-78,6074.0,2015,San Mateo County,mid,not eligible,0.0,0,0.9180327868852459,56,0.0,0,0.08196721311475409,5
-79,6075.0,2015,San Mateo County,mid,not eligible,0.0,0,0.9629629629629629,182,0.0,0,0.037037037037037035,7
-80,6076.0,2015,San Mateo County,mid,not eligible,0.0,0,0.9714285714285714,34,0.0,0,0.02857142857142857,1
-81,6077.01,2015,San Mateo County,mid,not eligible,0.0,0,0.9361702127659575,44,0.0,0,0.06382978723404255,3
-82,6077.02,2015,San Mateo County,mid,not eligible,0.0,0,1.0,24,0.0,0,0.0,0
-83,6078.0,2015,San Mateo County,mid,not eligible,0.0,0,1.0,41,0.0,0,0.0,0
-84,6079.0,2015,San Mateo County,high,not eligible,0.0,0,0.8974358974358975,70,0.0,0,0.10256410256410256,8
-85,6080.01,2015,San Mateo County,high,not eligible,0.0,0,1.0,45,0.0,0,0.0,0
-86,6080.02,2015,San Mateo County,high,not eligible,0.0,0,1.0,67,0.0,0,0.0,0
-87,6080.04,2015,San Mateo County,high,not eligible,0.0,0,1.0,69,0.0,0,0.0,0
-88,6080.13,2015,San Mateo County,high,not eligible,0.0,0,0.9310344827586207,27,0.0,0,0.06896551724137931,2
-89,6080.23,2015,San Mateo County,high,not eligible,0.0,0,1.0,13,0.0,0,0.0,0
-90,6081.0,2015,San Mateo County,mid,not eligible,0.0,0,1.0,43,0.0,0,0.0,0
-91,6082.0,2015,San Mateo County,high,not eligible,0.0,0,1.0,40,0.0,0,0.0,0
-92,6083.0,2015,San Mateo County,high,not eligible,0.0,0,1.0,29,0.0,0,0.0,0
-93,6084.0,2015,San Mateo County,mid,not eligible,0.0,0,0.9807692307692307,51,0.0,0,0.019230769230769232,1
-94,6085.01,2015,San Mateo County,mid,not eligible,0.0,0,0.9807692307692307,51,0.0,0,0.019230769230769232,1
-95,6085.02,2015,San Mateo County,mod,eligible,0.9047619047619048,19,0.0,0,0.09523809523809523,2,0.0,0
-96,6086.0,2015,San Mateo County,mid,not eligible,0.0,0,1.0,43,0.0,0,0.0,0
-97,6087.0,2015,San Mateo County,high,not eligible,0.0,0,0.978494623655914,91,0.0,0,0.021505376344086023,2
-98,6088.0,2015,San Mateo County,high,not eligible,0.0,0,1.0,96,0.0,0,0.0,0
-99,6089.0,2015,San Mateo County,high,not eligible,0.0,0,1.0,53,0.0,0,0.0,0
-100,6090.0,2015,San Mateo County,high,not eligible,0.0,0,1.0,36,0.0,0,0.0,0
-101,6091.0,2015,San Mateo County,mid,not eligible,0.0,0,1.0,20,0.0,0,0.0,0
-102,6092.01,2015,San Mateo County,high,not eligible,0.0,0,1.0,36,0.0,0,0.0,0
-103,6092.02,2015,San Mateo County,mid,not eligible,0.0,0,0.9523809523809523,40,0.0,0,0.047619047619047616,2
-104,6093.0,2015,San Mateo County,high,not eligible,0.0,0,1.0,28,0.0,0,0.0,0
-105,6094.0,2015,San Mateo County,high,not eligible,0.0,0,1.0,52,0.0,0,0.0,0
-106,6095.0,2015,San Mateo County,high,not eligible,0.0,0,1.0,70,0.0,0,0.0,0
-107,6096.01,2015,San Mateo County,high,not eligible,0.0,0,1.0,37,0.0,0,0.0,0
-108,6096.02,2015,San Mateo County,high,not eligible,0.0,0,1.0,31,0.0,0,0.0,0
-109,6096.03,2015,San Mateo County,high,not eligible,0.0,0,1.0,96,0.0,0,0.0,0
-110,6097.0,2015,San Mateo County,high,not eligible,0.0,0,1.0,72,0.0,0,0.0,0
-111,6098.0,2015,San Mateo County,high,not eligible,0.0,0,0.9625,77,0.0,0,0.0375,3
-112,6099.0,2015,San Mateo County,high,not eligible,0.0,0,1.0,52,0.0,0,0.0,0
-113,6100.0,2015,San Mateo County,mid,not eligible,0.0,0,0.9464285714285714,53,0.0,0,0.05357142857142857,3
-114,6101.0,2015,San Mateo County,mod,eligible,1.0,25,0.0,0,0.0,0,0.0,0
-115,6102.01,2015,San Mateo County,low,eligible,1.0,27,0.0,0,0.0,0,0.0,0
-116,6102.02,2015,San Mateo County,low,eligible,1.0,14,0.0,0,0.0,0,0.0,0
-117,6102.03,2015,San Mateo County,mod,eligible,1.0,20,0.0,0,0.0,0,0.0,0
-118,6103.02,2015,San Mateo County,mid,not eligible,0.0,0,0.8383838383838383,83,0.0,0,0.16161616161616163,16
-119,6103.03,2015,San Mateo County,high,not eligible,0.0,0,0.99,99,0.0,0,0.01,1
-120,6103.04,2015,San Mateo County,high,not eligible,0.0,0,0.9716981132075472,103,0.0,0,0.02830188679245283,3
-121,6104.0,2015,San Mateo County,mod,eligible,0.9583333333333334,23,0.0,0,0.041666666666666664,1,0.0,0
-122,6105.0,2015,San Mateo County,mod,eligible,0.96875,31,0.0,0,0.03125,1,0.0,0
-123,6106.01,2015,San Mateo County,low,eligible,0.9642857142857143,27,0.0,0,0.03571428571428571,1,0.0,0
-124,6106.02,2015,San Mateo County,mid,not eligible,0.0,0,0.9444444444444444,51,0.0,0,0.05555555555555555,3
-125,6107.0,2015,San Mateo County,mid,not eligible,0.0,0,1.0,25,0.0,0,0.0,0
-126,6108.0,2015,San Mateo County,mod,eligible,0.96,24,0.0,0,0.04,1,0.0,0
-127,6109.0,2015,San Mateo County,mod,eligible,1.0,64,0.0,0,0.0,0,0.0,0
-128,6110.0,2015,San Mateo County,mid,not eligible,0.0,0,0.9833333333333333,59,0.0,0,0.016666666666666666,1
-129,6111.0,2015,San Mateo County,high,not eligible,0.0,0,1.0,96,0.0,0,0.0,0
-130,6112.0,2015,San Mateo County,high,not eligible,0.0,0,0.9818181818181818,54,0.0,0,0.01818181818181818,1
-131,6113.0,2015,San Mateo County,mid,not eligible,0.0,0,0.967741935483871,60,0.0,0,0.03225806451612903,2
-132,6114.0,2015,San Mateo County,high,not eligible,0.0,0,0.9705882352941176,33,0.0,0,0.029411764705882353,1
-133,6115.0,2015,San Mateo County,high,not eligible,0.0,0,1.0,32,0.0,0,0.0,0
-134,6116.0,2015,San Mateo County,high,not eligible,0.0,0,1.0,37,0.0,0,0.0,0
-135,6117.0,2015,San Mateo County,mod,eligible,0.9285714285714286,39,0.0,0,0.07142857142857142,3,0.0,0
-136,6118.0,2015,San Mateo County,mod,eligible,0.9411764705882353,32,0.0,0,0.058823529411764705,2,0.0,0
-137,6119.0,2015,San Mateo County,mod,eligible,0.8658536585365854,71,0.0,0,0.13414634146341464,11,0.0,0
-138,6120.0,2015,San Mateo County,mod,eligible,0.9137931034482759,53,0.0,0,0.08620689655172414,5,0.0,0
-139,6121.0,2015,San Mateo County,low,eligible,0.9444444444444444,51,0.0,0,0.05555555555555555,3,0.0,0
-140,6125.0,2015,San Mateo County,high,not eligible,0.0,0,0.9821428571428571,55,0.0,0,0.017857142857142856,1
-141,6126.0,2015,San Mateo County,mid,not eligible,0.0,0,1.0,26,0.0,0,0.0,0
-142,6127.0,2015,San Mateo County,high,not eligible,0.0,0,1.0,18,0.0,0,0.0,0
-143,6128.0,2015,San Mateo County,high,not eligible,0.0,0,1.0,44,0.0,0,0.0,0
-144,6129.0,2015,San Mateo County,high,not eligible,0.0,0,0.9833333333333333,59,0.0,0,0.016666666666666666,1
-145,6130.0,2015,San Mateo County,high,not eligible,0.0,0,1.0,59,0.0,0,0.0,0
-146,6132.0,2015,San Mateo County,high,not eligible,0.0,0,1.0,74,0.0,0,0.0,0
-147,6133.0,2015,San Mateo County,high,not eligible,0.0,0,1.0,43,0.0,0,0.0,0
-148,6134.0,2015,San Mateo County,high,not eligible,0.0,0,1.0,50,0.0,0,0.0,0
-149,6135.01,2015,San Mateo County,mid,not eligible,0.0,0,0.9555555555555556,43,0.0,0,0.044444444444444446,2
-150,6135.02,2015,San Mateo County,high,not eligible,0.0,0,0.9680851063829787,91,0.0,0,0.031914893617021274,3
-151,6136.0,2015,San Mateo County,high,not eligible,0.0,0,0.9024390243902439,111,0.0,0,0.0975609756097561,12
-152,6137.0,2015,San Mateo County,mid,not eligible,0.0,0,0.9781021897810219,134,0.0,0,0.021897810218978103,3
-153,6138.0,2015,San Mateo County,high,not eligible,0.0,0,0.9215686274509803,47,0.0,0,0.0784313725490196,4
-154,6139.0,2015,San Mateo County,high,not eligible,0.0,0,0.9841269841269841,62,0.0,0,0.015873015873015872,1
-155,6140.0,2015,San Mateo County,mid,not eligible,0.0,0,1.0,64,0.0,0,0.0,0
+Tract,Year,County,type,CRA Eligible,"% HI borrower, LI tract","# HI borrower, LI tract","% HI borrower, HI tract","# HI borrower, HI tract","% LI borrower, LI tract","# LI borrower, LI tract","%LI borrower, HI tract","# LI borrower, HI tract",Geoid
+6001.0,2015,San Mateo County,mid,not eligible,0.0,0,0.9850746268656716,132,0.0,0,0.0,0,6075600100
+6002.0,2015,San Mateo County,mod,eligible,0.85,17,0.0,0,0.0,0,0.0,0,6075600200
+6003.0,2015,San Mateo County,mid,not eligible,0.0,0,0.926829268292683,38,0.0,0,0.0,0,6075600300
+6004.01,2015,San Mateo County,mid,not eligible,0.0,0,0.8461538461538461,44,0.0,0,0.0,0,6075600401
+6004.02,2015,San Mateo County,mid,not eligible,0.0,0,0.8888888888888888,24,0.0,0,0.0,0,6075600402
+6005.0,2015,San Mateo County,mid,not eligible,0.0,0,0.9512195121951219,78,0.0,0,0.0,0,6075600500
+6006.0,2015,San Mateo County,mod,eligible,0.9032258064516129,28,0.0,0,0.0,0,0.0,0,6075600600
+6007.0,2015,San Mateo County,mid,not eligible,0.0,0,0.96875,31,0.0,0,0.0,0,6075600700
+6008.0,2015,San Mateo County,mod,eligible,1.0,8,0.0,0,0.0,0,0.0,0,6075600800
+6009.0,2015,San Mateo County,mid,not eligible,0.0,0,1.0,35,0.0,0,0.0,0,6075600900
+6010.0,2015,San Mateo County,mid,not eligible,0.0,0,0.9719626168224299,104,0.0,0,0.0,0,6075601000
+6011.0,2015,San Mateo County,mid,not eligible,0.0,0,0.9375,30,0.0,0,0.0,0,6075601100
+6012.0,2015,San Mateo County,mid,not eligible,0.0,0,0.9361702127659575,44,0.0,0,0.0,0,6075601200
+6013.0,2015,San Mateo County,mod,eligible,0.8125,26,0.0,0,0.0,0,0.0,0,6075601300
+6014.0,2015,San Mateo County,mid,not eligible,0.0,0,0.8867924528301887,47,0.0,0,0.0,0,6075601400
+6015.01,2015,San Mateo County,mid,not eligible,0.0,0,0.9047619047619048,19,0.0,0,0.0,0,6075601501
+6015.02,2015,San Mateo County,mod,eligible,0.95,19,0.0,0,0.0,0,0.0,0,6075601502
+6016.01,2015,San Mateo County,mid,not eligible,0.0,0,0.66,33,0.0,0,0.0,0,6075601601
+6016.03,2015,San Mateo County,mid,not eligible,0.0,0,0.8983050847457628,53,0.0,0,0.0,0,6075601603
+6016.04,2015,San Mateo County,mid,not eligible,0.0,0,0.7888888888888889,71,0.0,0,0.0,0,6075601604
+6016.05,2015,San Mateo County,mid,not eligible,0.0,0,0.9393939393939394,31,0.0,0,0.0,0,6075601605
+6017.0,2015,San Mateo County,mid,not eligible,0.0,0,1.0,25,0.0,0,0.0,0,6075601700
+6018.0,2015,San Mateo County,mid,not eligible,0.0,0,0.9230769230769231,60,0.0,0,0.0,0,6075601800
+6019.01,2015,San Mateo County,mid,not eligible,0.0,0,0.972972972972973,36,0.0,0,0.0,0,6075601901
+6019.02,2015,San Mateo County,mid,not eligible,0.0,0,0.8333333333333334,25,0.0,0,0.0,0,6075601902
+6020.0,2015,San Mateo County,mid,not eligible,0.0,0,0.9586776859504132,116,0.0,0,0.0,0,6075602000
+6021.0,2015,San Mateo County,mod,eligible,1.0,19,0.0,0,0.0,0,0.0,0,6075602100
+6022.0,2015,San Mateo County,mod,eligible,0.9615384615384616,25,0.0,0,0.0,0,0.0,0,6075602200
+6023.0,2015,San Mateo County,mid,not eligible,0.0,0,0.9705882352941176,33,0.0,0,0.0,0,6075602300
+6024.0,2015,San Mateo County,mid,not eligible,0.0,0,0.9791666666666666,47,0.0,0,0.0,0,6075602400
+6025.0,2015,San Mateo County,high,not eligible,0.0,0,0.9473684210526315,72,0.0,0,0.0,0,6075602500
+6026.0,2015,San Mateo County,mid,not eligible,0.0,0,0.9390243902439024,77,0.0,0,0.0,0,6075602600
+6027.0,2015,San Mateo County,mid,not eligible,0.0,0,0.967741935483871,60,0.0,0,0.0,0,6075602700
+6028.0,2015,San Mateo County,mid,not eligible,0.0,0,1.0,68,0.0,0,0.0,0,6075602800
+6029.0,2015,San Mateo County,mid,not eligible,0.0,0,0.9523809523809523,40,0.0,0,0.0,0,6075602900
+6030.0,2015,San Mateo County,mid,not eligible,0.0,0,0.9411764705882353,48,0.0,0,0.0,0,6075603000
+6031.0,2015,San Mateo County,high,not eligible,0.0,0,0.98,49,0.0,0,0.0,0,6075603100
+6032.0,2015,San Mateo County,mid,not eligible,0.0,0,0.9615384615384616,50,0.0,0,0.0,0,6075603200
+6033.0,2015,San Mateo County,mid,not eligible,0.0,0,0.963963963963964,107,0.0,0,0.0,0,6075603300
+6034.0,2015,San Mateo County,high,not eligible,0.0,0,0.9076923076923077,59,0.0,0,0.0,0,6075603400
+6037.0,2015,San Mateo County,mid,not eligible,0.0,0,1.0,38,0.0,0,0.0,0,6075603700
+6038.01,2015,San Mateo County,mid,not eligible,0.0,0,0.5844155844155844,45,0.0,0,0.0,0,6075603801
+6038.02,2015,San Mateo County,mid,not eligible,0.0,0,1.0,42,0.0,0,0.0,0,6075603802
+6039.0,2015,San Mateo County,mid,not eligible,0.0,0,0.9516129032258065,59,0.0,0,0.0,0,6075603900
+6040.0,2015,San Mateo County,mid,not eligible,0.0,0,1.0,38,0.0,0,0.0,0,6075604000
+6041.01,2015,San Mateo County,mod,eligible,0.9027777777777778,65,0.0,0,0.0,0,0.0,0,6075604101
+6041.02,2015,San Mateo County,mid,not eligible,0.0,0,0.8611111111111112,31,0.0,0,0.0,0,6075604102
+6042.0,2015,San Mateo County,mod,eligible,0.8709677419354839,27,0.0,0,0.0,0,0.0,0,6075604200
+6044.0,2015,San Mateo County,mid,not eligible,0.0,0,0.9791666666666666,47,0.0,0,0.0,0,6075604400
+6045.0,2015,San Mateo County,mid,not eligible,0.0,0,1.0,38,0.0,0,0.0,0,6075604500
+6046.0,2015,San Mateo County,mid,not eligible,0.0,0,1.0,45,0.0,0,0.0,0,6075604600
+6047.0,2015,San Mateo County,high,not eligible,0.0,0,1.0,27,0.0,0,0.0,0,6075604700
+6048.0,2015,San Mateo County,mid,not eligible,0.0,0,1.0,41,0.0,0,0.0,0,6075604800
+6049.0,2015,San Mateo County,mid,not eligible,0.0,0,0.975609756097561,40,0.0,0,0.0,0,6075604900
+6050.0,2015,San Mateo County,high,not eligible,0.0,0,1.0,80,0.0,0,0.0,0,6075605000
+6051.0,2015,San Mateo County,high,not eligible,0.0,0,1.0,26,0.0,0,0.0,0,6075605100
+6052.0,2015,San Mateo County,high,not eligible,0.0,0,1.0,47,0.0,0,0.0,0,6075605200
+6053.0,2015,San Mateo County,high,not eligible,0.0,0,1.0,41,0.0,0,0.0,0,6075605300
+6054.0,2015,San Mateo County,mid,not eligible,0.0,0,0.9838709677419355,61,0.0,0,0.0,0,6075605400
+6055.0,2015,San Mateo County,mid,not eligible,0.0,0,0.98,49,0.0,0,0.0,0,6075605500
+6056.0,2015,San Mateo County,high,not eligible,0.0,0,1.0,62,0.0,0,0.0,0,6075605600
+6057.0,2015,San Mateo County,high,not eligible,0.0,0,1.0,60,0.0,0,0.0,0,6075605700
+6058.0,2015,San Mateo County,high,not eligible,0.0,0,1.0,33,0.0,0,0.0,0,6075605800
+6059.0,2015,San Mateo County,mod,eligible,0.9270833333333334,89,0.0,0,0.0,0,0.0,0,6075605900
+6060.0,2015,San Mateo County,mid,not eligible,0.0,0,0.8953488372093024,77,0.0,0,0.0,0,6075606000
+6061.0,2015,San Mateo County,mid,not eligible,0.0,0,0.9322033898305084,55,0.0,0,0.0,0,6075606100
+6062.0,2015,San Mateo County,mod,eligible,0.9310344827586207,54,0.0,0,0.0,0,0.0,0,6075606200
+6063.0,2015,San Mateo County,mid,not eligible,0.0,0,0.9512195121951219,39,0.0,0,0.0,0,6075606300
+6064.0,2015,San Mateo County,high,not eligible,0.0,0,0.9074074074074074,49,0.0,0,0.0,0,6075606400
+6065.0,2015,San Mateo County,high,not eligible,0.0,0,1.0,41,0.0,0,0.0,0,6075606500
+6066.0,2015,San Mateo County,high,not eligible,0.0,0,1.0,40,0.0,0,0.0,0,6075606600
+6067.0,2015,San Mateo County,high,not eligible,0.0,0,1.0,47,0.0,0,0.0,0,6075606700
+6068.0,2015,San Mateo County,high,not eligible,0.0,0,1.0,52,0.0,0,0.0,0,6075606800
+6069.0,2015,San Mateo County,high,not eligible,0.0,0,1.0,33,0.0,0,0.0,0,6075606900
+6070.0,2015,San Mateo County,high,not eligible,0.0,0,1.0,49,0.0,0,0.0,0,6075607000
+6071.0,2015,San Mateo County,high,not eligible,0.0,0,1.0,63,0.0,0,0.0,0,6075607100
+6072.0,2015,San Mateo County,mid,not eligible,0.0,0,1.0,30,0.0,0,0.0,0,6075607200
+6073.0,2015,San Mateo County,high,not eligible,0.0,0,1.0,43,0.0,0,0.0,0,6075607300
+6074.0,2015,San Mateo County,mid,not eligible,0.0,0,0.9180327868852459,56,0.0,0,0.0,0,6075607400
+6075.0,2015,San Mateo County,mid,not eligible,0.0,0,0.9629629629629629,182,0.0,0,0.0,0,6075607500
+6076.0,2015,San Mateo County,mid,not eligible,0.0,0,0.9714285714285714,34,0.0,0,0.0,0,6075607600
+6077.01,2015,San Mateo County,mid,not eligible,0.0,0,0.9361702127659575,44,0.0,0,0.0,0,6075607701
+6077.02,2015,San Mateo County,mid,not eligible,0.0,0,1.0,24,0.0,0,0.0,0,6075607702
+6078.0,2015,San Mateo County,mid,not eligible,0.0,0,1.0,41,0.0,0,0.0,0,6075607800
+6079.0,2015,San Mateo County,high,not eligible,0.0,0,0.8974358974358975,70,0.0,0,0.0,0,6075607900
+6080.01,2015,San Mateo County,high,not eligible,0.0,0,1.0,45,0.0,0,0.0,0,6075608001
+6080.02,2015,San Mateo County,high,not eligible,0.0,0,1.0,67,0.0,0,0.0,0,6075608002
+6080.04,2015,San Mateo County,high,not eligible,0.0,0,1.0,69,0.0,0,0.0,0,6075608004
+6080.13,2015,San Mateo County,high,not eligible,0.0,0,0.9310344827586207,27,0.0,0,0.0,0,6075608013
+6080.23,2015,San Mateo County,high,not eligible,0.0,0,1.0,13,0.0,0,0.0,0,6075608023
+6081.0,2015,San Mateo County,mid,not eligible,0.0,0,1.0,43,0.0,0,0.0,0,6075608100
+6082.0,2015,San Mateo County,high,not eligible,0.0,0,1.0,40,0.0,0,0.0,0,6075608200
+6083.0,2015,San Mateo County,high,not eligible,0.0,0,1.0,29,0.0,0,0.0,0,6075608300
+6084.0,2015,San Mateo County,mid,not eligible,0.0,0,0.9807692307692307,51,0.0,0,0.0,0,6075608400
+6085.01,2015,San Mateo County,mid,not eligible,0.0,0,0.9807692307692307,51,0.0,0,0.0,0,6075608501
+6085.02,2015,San Mateo County,mod,eligible,0.9047619047619048,19,0.0,0,0.0,0,0.0,0,6075608502
+6086.0,2015,San Mateo County,mid,not eligible,0.0,0,1.0,43,0.0,0,0.0,0,6075608600
+6087.0,2015,San Mateo County,high,not eligible,0.0,0,0.978494623655914,91,0.0,0,0.0,0,6075608700
+6088.0,2015,San Mateo County,high,not eligible,0.0,0,1.0,96,0.0,0,0.0,0,6075608800
+6089.0,2015,San Mateo County,high,not eligible,0.0,0,1.0,53,0.0,0,0.0,0,6075608900
+6090.0,2015,San Mateo County,high,not eligible,0.0,0,1.0,36,0.0,0,0.0,0,6075609000
+6091.0,2015,San Mateo County,mid,not eligible,0.0,0,1.0,20,0.0,0,0.0,0,6075609100
+6092.01,2015,San Mateo County,high,not eligible,0.0,0,1.0,36,0.0,0,0.0,0,6075609201
+6092.02,2015,San Mateo County,mid,not eligible,0.0,0,0.9523809523809523,40,0.0,0,0.0,0,6075609202
+6093.0,2015,San Mateo County,high,not eligible,0.0,0,1.0,28,0.0,0,0.0,0,6075609300
+6094.0,2015,San Mateo County,high,not eligible,0.0,0,1.0,52,0.0,0,0.0,0,6075609400
+6095.0,2015,San Mateo County,high,not eligible,0.0,0,1.0,70,0.0,0,0.0,0,6075609500
+6096.01,2015,San Mateo County,high,not eligible,0.0,0,1.0,37,0.0,0,0.0,0,6075609601
+6096.02,2015,San Mateo County,high,not eligible,0.0,0,1.0,31,0.0,0,0.0,0,6075609602
+6096.03,2015,San Mateo County,high,not eligible,0.0,0,1.0,96,0.0,0,0.0,0,6075609603
+6097.0,2015,San Mateo County,high,not eligible,0.0,0,1.0,72,0.0,0,0.0,0,6075609700
+6098.0,2015,San Mateo County,high,not eligible,0.0,0,0.9625,77,0.0,0,0.0,0,6075609800
+6099.0,2015,San Mateo County,high,not eligible,0.0,0,1.0,52,0.0,0,0.0,0,6075609900
+6100.0,2015,San Mateo County,mid,not eligible,0.0,0,0.9464285714285714,53,0.0,0,0.0,0,6075610000
+6101.0,2015,San Mateo County,mod,eligible,1.0,25,0.0,0,0.0,0,0.0,0,6075610100
+6102.01,2015,San Mateo County,low,eligible,1.0,27,0.0,0,0.0,0,0.0,0,6075610201
+6102.02,2015,San Mateo County,low,eligible,1.0,14,0.0,0,0.0,0,0.0,0,6075610202
+6102.03,2015,San Mateo County,mod,eligible,1.0,20,0.0,0,0.0,0,0.0,0,6075610203
+6103.02,2015,San Mateo County,mid,not eligible,0.0,0,0.8383838383838383,83,0.0,0,0.0,0,6075610302
+6103.03,2015,San Mateo County,high,not eligible,0.0,0,0.99,99,0.0,0,0.0,0,6075610303
+6103.04,2015,San Mateo County,high,not eligible,0.0,0,0.9716981132075472,103,0.0,0,0.0,0,6075610304
+6104.0,2015,San Mateo County,mod,eligible,0.9583333333333334,23,0.0,0,0.0,0,0.0,0,6075610400
+6105.0,2015,San Mateo County,mod,eligible,0.96875,31,0.0,0,0.0,0,0.0,0,6075610500
+6106.01,2015,San Mateo County,low,eligible,0.9642857142857143,27,0.0,0,0.0,0,0.0,0,6075610601
+6106.02,2015,San Mateo County,mid,not eligible,0.0,0,0.9444444444444444,51,0.0,0,0.0,0,6075610602
+6107.0,2015,San Mateo County,mid,not eligible,0.0,0,1.0,25,0.0,0,0.0,0,6075610700
+6108.0,2015,San Mateo County,mod,eligible,0.96,24,0.0,0,0.0,0,0.0,0,6075610800
+6109.0,2015,San Mateo County,mod,eligible,1.0,64,0.0,0,0.0,0,0.0,0,6075610900
+6110.0,2015,San Mateo County,mid,not eligible,0.0,0,0.9833333333333333,59,0.0,0,0.0,0,6075611000
+6111.0,2015,San Mateo County,high,not eligible,0.0,0,1.0,96,0.0,0,0.0,0,6075611100
+6112.0,2015,San Mateo County,high,not eligible,0.0,0,0.9818181818181818,54,0.0,0,0.0,0,6075611200
+6113.0,2015,San Mateo County,mid,not eligible,0.0,0,0.967741935483871,60,0.0,0,0.0,0,6075611300
+6114.0,2015,San Mateo County,high,not eligible,0.0,0,0.9705882352941176,33,0.0,0,0.0,0,6075611400
+6115.0,2015,San Mateo County,high,not eligible,0.0,0,1.0,32,0.0,0,0.0,0,6075611500
+6116.0,2015,San Mateo County,high,not eligible,0.0,0,1.0,37,0.0,0,0.0,0,6075611600
+6117.0,2015,San Mateo County,mod,eligible,0.9285714285714286,39,0.0,0,0.0,0,0.0,0,6075611700
+6118.0,2015,San Mateo County,mod,eligible,0.9411764705882353,32,0.0,0,0.0,0,0.0,0,6075611800
+6119.0,2015,San Mateo County,mod,eligible,0.8658536585365854,71,0.0,0,0.0,0,0.0,0,6075611900
+6120.0,2015,San Mateo County,mod,eligible,0.9137931034482759,53,0.0,0,0.0,0,0.0,0,6075612000
+6121.0,2015,San Mateo County,low,eligible,0.9444444444444444,51,0.0,0,0.0,0,0.0,0,6075612100
+6125.0,2015,San Mateo County,high,not eligible,0.0,0,0.9821428571428571,55,0.0,0,0.0,0,6075612500
+6126.0,2015,San Mateo County,mid,not eligible,0.0,0,1.0,26,0.0,0,0.0,0,6075612600
+6127.0,2015,San Mateo County,high,not eligible,0.0,0,1.0,18,0.0,0,0.0,0,6075612700
+6128.0,2015,San Mateo County,high,not eligible,0.0,0,1.0,44,0.0,0,0.0,0,6075612800
+6129.0,2015,San Mateo County,high,not eligible,0.0,0,0.9833333333333333,59,0.0,0,0.0,0,6075612900
+6130.0,2015,San Mateo County,high,not eligible,0.0,0,1.0,59,0.0,0,0.0,0,6075613000
+6132.0,2015,San Mateo County,high,not eligible,0.0,0,1.0,74,0.0,0,0.0,0,6075613200
+6133.0,2015,San Mateo County,high,not eligible,0.0,0,1.0,43,0.0,0,0.0,0,6075613300
+6134.0,2015,San Mateo County,high,not eligible,0.0,0,1.0,50,0.0,0,0.0,0,6075613400
+6135.01,2015,San Mateo County,mid,not eligible,0.0,0,0.9555555555555556,43,0.0,0,0.0,0,6075613501
+6135.02,2015,San Mateo County,high,not eligible,0.0,0,0.9680851063829787,91,0.0,0,0.0,0,6075613502
+6136.0,2015,San Mateo County,high,not eligible,0.0,0,0.9024390243902439,111,0.0,0,0.0,0,6075613600
+6137.0,2015,San Mateo County,mid,not eligible,0.0,0,0.9781021897810219,134,0.0,0,0.0,0,6075613700
+6138.0,2015,San Mateo County,high,not eligible,0.0,0,0.9215686274509803,47,0.0,0,0.0,0,6075613800
+6139.0,2015,San Mateo County,high,not eligible,0.0,0,0.9841269841269841,62,0.0,0,0.0,0,6075613900
+6140.0,2015,San Mateo County,mid,not eligible,0.0,0,1.0,64,0.0,0,0.0,0,6075614000

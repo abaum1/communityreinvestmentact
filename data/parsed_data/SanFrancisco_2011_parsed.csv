@@ -1,172 +1,172 @@
-,Tract,Year,County,type,CRA Eligible,"% HI borrower, LI tract","# HI borrower, LI tract","% HI borrower, HI tract","# HI borrower, HI tract","% LI borrower, LI tract","# LI borrower, LI tract","%LI borrower, HI tract","# LI borrower, HI tract"
-0,101.0,2011,San Francisco County,mod,eligible,0.9655172413793104,28,0.0,0,0.034482758620689655,1,0.0,0
-1,102.0,2011,San Francisco County,high,not eligible,0.0,0,0.9565217391304348,66,0.0,0,0.043478260869565216,3
-2,103.0,2011,San Francisco County,mid,not eligible,0.0,0,1.0,31,0.0,0,0.0,0
-3,104.0,2011,San Francisco County,mid,not eligible,0.0,0,0.8333333333333334,55,0.0,0,0.16666666666666666,11
-4,105.0,2011,San Francisco County,high,not eligible,0.0,0,1.0,30,0.0,0,0.0,0
-5,106.0,2011,San Francisco County,mod,eligible,0.8125,13,0.0,0,0.1875,3,0.0,0
-6,107.0,2011,San Francisco County,low,eligible,1.0,5,0.0,0,0.0,0,0.0,0
-7,108.0,2011,San Francisco County,mod,eligible,0.9090909090909091,30,0.0,0,0.09090909090909091,3,0.0,0
-8,109.0,2011,San Francisco County,mid,not eligible,0.0,0,0.95,38,0.0,0,0.05,2
-9,110.0,2011,San Francisco County,mod,eligible,0.7307692307692307,19,0.0,0,0.2692307692307692,7,0.0,0
-10,111.0,2011,San Francisco County,low,eligible,0.8260869565217391,19,0.0,0,0.17391304347826086,4,0.0,0
-11,112.0,2011,San Francisco County,mid,not eligible,0.0,0,0.9459459459459459,35,0.0,0,0.05405405405405406,2
-12,113.0,2011,San Francisco County,low,eligible,0.9285714285714286,13,0.0,0,0.07142857142857142,1,0.0,0
-13,114.0,2011,San Francisco County,low,eligible,1.0,4,0.0,0,0.0,0,0.0,0
-14,115.0,2011,San Francisco County,low,eligible,1.0,3,0.0,0,0.0,0,0.0,0
-15,117.0,2011,San Francisco County,low,eligible,0.7857142857142857,11,0.0,0,0.21428571428571427,3,0.0,0
-16,118.0,2011,San Francisco County,low,eligible,1.0,1,0.0,0,0.0,0,0.0,0
-17,119.0,2011,San Francisco County,mod,eligible,0.8222222222222222,37,0.0,0,0.17777777777777778,8,0.0,0
-18,120.0,2011,San Francisco County,low,eligible,0.8529411764705882,29,0.0,0,0.14705882352941177,5,0.0,0
-19,121.0,2011,San Francisco County,mod,eligible,0.7727272727272727,17,0.0,0,0.22727272727272727,5,0.0,0
-20,122.0,2011,San Francisco County,low,eligible,0.7692307692307693,20,0.0,0,0.23076923076923078,6,0.0,0
-21,123.0,2011,San Francisco County,low,eligible,1.0,6,0.0,0,0.0,0,0.0,0
-22,124.0,2011,San Francisco County,low,eligible,0.6764705882352942,23,0.0,0,0.3235294117647059,11,0.0,0
-23,125.0,2011,San Francisco County,low,eligible,0.8,4,0.0,0,0.2,1,0.0,0
-24,126.0,2011,San Francisco County,high,not eligible,0.0,0,0.9466666666666667,71,0.0,0,0.05333333333333334,4
-25,127.0,2011,San Francisco County,high,not eligible,0.0,0,0.9696969696969697,32,0.0,0,0.030303030303030304,1
-26,128.0,2011,San Francisco County,high,not eligible,0.0,0,0.9473684210526315,54,0.0,0,0.05263157894736842,3
-27,129.0,2011,San Francisco County,mid,not eligible,0.0,0,0.9574468085106383,45,0.0,0,0.0425531914893617,2
-28,130.0,2011,San Francisco County,high,not eligible,0.0,0,0.9767441860465116,42,0.0,0,0.023255813953488372,1
-29,131.0,2011,San Francisco County,high,not eligible,0.0,0,0.967741935483871,60,0.0,0,0.03225806451612903,2
-30,132.0,2011,San Francisco County,high,not eligible,0.0,0,1.0,50,0.0,0,0.0,0
-31,133.0,2011,San Francisco County,high,not eligible,0.0,0,0.9607843137254902,49,0.0,0,0.0392156862745098,2
-32,134.0,2011,San Francisco County,high,not eligible,0.0,0,0.975,39,0.0,0,0.025,1
-33,135.0,2011,San Francisco County,high,not eligible,0.0,0,0.9705882352941176,33,0.0,0,0.029411764705882353,1
-34,151.0,2011,San Francisco County,mid,not eligible,0.0,0,0.9354838709677419,29,0.0,0,0.06451612903225806,2
-35,152.0,2011,San Francisco County,mid,not eligible,0.0,0,0.9811320754716981,52,0.0,0,0.018867924528301886,1
-36,153.0,2011,San Francisco County,high,not eligible,0.0,0,0.9583333333333334,23,0.0,0,0.041666666666666664,1
-37,154.0,2011,San Francisco County,mid,not eligible,0.0,0,0.9523809523809523,60,0.0,0,0.047619047619047616,3
-38,155.0,2011,San Francisco County,mod,eligible,0.95,19,0.0,0,0.05,1,0.0,0
-39,156.0,2011,San Francisco County,mid,not eligible,0.0,0,0.9444444444444444,17,0.0,0,0.05555555555555555,1
-40,157.0,2011,San Francisco County,mid,not eligible,0.0,0,1.0,64,0.0,0,0.0,0
-41,158.0,2011,San Francisco County,mod,eligible,0.8666666666666667,39,0.0,0,0.13333333333333333,6,0.0,0
-42,159.0,2011,San Francisco County,mod,eligible,0.95,19,0.0,0,0.05,1,0.0,0
-43,160.0,2011,San Francisco County,mod,eligible,0.775,31,0.0,0,0.225,9,0.0,0
-44,161.0,2011,San Francisco County,low,eligible,0.8888888888888888,8,0.0,0,0.1111111111111111,1,0.0,0
-45,162.0,2011,San Francisco County,mod,eligible,1.0,14,0.0,0,0.0,0,0.0,0
-46,163.0,2011,San Francisco County,low,eligible,0.8,20,0.0,0,0.2,5,0.0,0
-47,164.0,2011,San Francisco County,mod,eligible,1.0,35,0.0,0,0.0,0,0.0,0
-48,165.0,2011,San Francisco County,mod,eligible,1.0,35,0.0,0,0.0,0,0.0,0
-49,166.0,2011,San Francisco County,mid,not eligible,0.0,0,0.9777777777777777,44,0.0,0,0.022222222222222223,1
-50,167.0,2011,San Francisco County,mid,not eligible,0.0,0,0.9298245614035088,53,0.0,0,0.07017543859649122,4
-51,168.0,2011,San Francisco County,mod,eligible,0.8709677419354839,54,0.0,0,0.12903225806451613,8,0.0,0
-52,169.0,2011,San Francisco County,mid,not eligible,0.0,0,0.9791666666666666,47,0.0,0,0.020833333333333332,1
-53,170.0,2011,San Francisco County,high,not eligible,0.0,0,0.9693877551020408,95,0.0,0,0.030612244897959183,3
-54,171.0,2011,San Francisco County,high,not eligible,0.0,0,0.9896907216494846,96,0.0,0,0.010309278350515464,1
-55,176.01,2011,San Francisco County,low,eligible,0.82,41,0.0,0,0.18,9,0.0,0
-56,176.02,2011,San Francisco County,mod,eligible,0.9402985074626866,126,0.0,0,0.05970149253731343,8,0.0,0
-57,177.0,2011,San Francisco County,mod,eligible,0.9333333333333333,14,0.0,0,0.06666666666666667,1,0.0,0
-58,178.0,2011,San Francisco County,low,eligible,0.8,132,0.0,0,0.2,33,0.0,0
-59,179.01,2011,San Francisco County,high,not eligible,0.0,0,0.9742120343839542,340,0.0,0,0.025787965616045846,9
-60,180.0,2011,San Francisco County,mod,eligible,0.8636363636363636,76,0.0,0,0.13636363636363635,12,0.0,0
-61,201.0,2011,San Francisco County,low,eligible,0.7959183673469388,39,0.0,0,0.20408163265306123,10,0.0,0
-62,202.0,2011,San Francisco County,mod,eligible,0.95,38,0.0,0,0.05,2,0.0,0
-63,203.0,2011,San Francisco County,mid,not eligible,0.0,0,0.9038461538461539,47,0.0,0,0.09615384615384616,5
-64,204.0,2011,San Francisco County,high,not eligible,0.0,0,0.989247311827957,92,0.0,0,0.010752688172043012,1
-65,205.0,2011,San Francisco County,mid,not eligible,0.0,0,0.9487179487179487,37,0.0,0,0.05128205128205128,2
-66,206.0,2011,San Francisco County,high,not eligible,0.0,0,1.0,80,0.0,0,0.0,0
-67,207.0,2011,San Francisco County,mid,not eligible,0.0,0,0.9833333333333333,59,0.0,0,0.016666666666666666,1
-68,208.0,2011,San Francisco County,mod,eligible,0.9555555555555556,43,0.0,0,0.044444444444444446,2,0.0,0
-69,209.0,2011,San Francisco County,mod,eligible,0.8648648648648649,32,0.0,0,0.13513513513513514,5,0.0,0
-70,210.0,2011,San Francisco County,mod,eligible,0.9722222222222222,35,0.0,0,0.027777777777777776,1,0.0,0
-71,211.0,2011,San Francisco County,high,not eligible,0.0,0,1.0,60,0.0,0,0.0,0
-72,212.0,2011,San Francisco County,high,not eligible,0.0,0,0.9516129032258065,59,0.0,0,0.04838709677419355,3
-73,213.0,2011,San Francisco County,high,not eligible,0.0,0,0.9607843137254902,49,0.0,0,0.0392156862745098,2
-74,214.0,2011,San Francisco County,high,not eligible,0.0,0,1.0,41,0.0,0,0.0,0
-75,215.0,2011,San Francisco County,mid,not eligible,0.0,0,0.9583333333333334,69,0.0,0,0.041666666666666664,3
-76,216.0,2011,San Francisco County,high,not eligible,0.0,0,0.8493150684931506,62,0.0,0,0.1506849315068493,11
-77,217.0,2011,San Francisco County,mid,not eligible,0.0,0,0.8333333333333334,30,0.0,0,0.16666666666666666,6
-78,218.0,2011,San Francisco County,high,not eligible,0.0,0,0.9411764705882353,48,0.0,0,0.058823529411764705,3
-79,226.0,2011,San Francisco County,mid,not eligible,0.0,0,0.9038461538461539,47,0.0,0,0.09615384615384616,5
-80,227.01,2011,San Francisco County,high,not eligible,0.0,0,0.9333333333333333,56,0.0,0,0.06666666666666667,4
-81,227.02,2011,San Francisco County,high,not eligible,0.0,0,1.0,32,0.0,0,0.0,0
-82,227.03,2011,San Francisco County,mod,eligible,0.7555555555555555,34,0.0,0,0.24444444444444444,11,0.0,0
-83,228.01,2011,San Francisco County,mod,eligible,0.873015873015873,55,0.0,0,0.12698412698412698,8,0.0,0
-84,228.02,2011,San Francisco County,mod,eligible,0.9333333333333333,14,0.0,0,0.06666666666666667,1,0.0,0
-85,228.03,2011,San Francisco County,mod,eligible,0.96,24,0.0,0,0.04,1,0.0,0
-86,229.01,2011,San Francisco County,mod,eligible,0.9047619047619048,19,0.0,0,0.09523809523809523,2,0.0,0
-87,229.02,2011,San Francisco County,mod,eligible,0.8421052631578947,16,0.0,0,0.15789473684210525,3,0.0,0
-88,229.03,2011,San Francisco County,mod,eligible,0.7777777777777778,14,0.0,0,0.2222222222222222,4,0.0,0
-89,230.01,2011,San Francisco County,mod,eligible,0.2631578947368421,10,0.0,0,0.7368421052631579,28,0.0,0
-90,230.02,2011,San Francisco County,mod,eligible,0.5,15,0.0,0,0.5,15,0.0,0
-91,230.03,2011,San Francisco County,mod,eligible,0.34210526315789475,13,0.0,0,0.6578947368421053,25,0.0,0
-92,231.01,2011,San Francisco County,low,eligible,0.55,11,0.0,0,0.45,9,0.0,0
-93,231.02,2011,San Francisco County,low,eligible,0.5142857142857142,18,0.0,0,0.4857142857142857,17,0.0,0
-94,231.03,2011,San Francisco County,low,eligible,0.4,4,0.0,0,0.6,6,0.0,0
-95,232.0,2011,San Francisco County,mod,eligible,0.1891891891891892,14,0.0,0,0.8108108108108109,60,0.0,0
-96,233.0,2011,San Francisco County,mid,not eligible,0.0,0,0.2534246575342466,37,0.0,0,0.7465753424657534,109
-97,234.0,2011,San Francisco County,low,eligible,0.2972972972972973,11,0.0,0,0.7027027027027027,26,0.0,0
-98,251.0,2011,San Francisco County,mod,eligible,0.9361702127659575,44,0.0,0,0.06382978723404255,3,0.0,0
-99,252.0,2011,San Francisco County,mid,not eligible,0.0,0,0.9027777777777778,65,0.0,0,0.09722222222222222,7
-100,253.0,2011,San Francisco County,mid,not eligible,0.0,0,0.9473684210526315,54,0.0,0,0.05263157894736842,3
-101,254.01,2011,San Francisco County,mod,eligible,0.9743589743589743,38,0.0,0,0.02564102564102564,1,0.0,0
-102,254.02,2011,San Francisco County,mid,not eligible,0.0,0,0.7719298245614035,44,0.0,0,0.22807017543859648,13
-103,254.03,2011,San Francisco County,mod,eligible,0.9166666666666666,55,0.0,0,0.08333333333333333,5,0.0,0
-104,255.0,2011,San Francisco County,mod,eligible,0.8653846153846154,90,0.0,0,0.1346153846153846,14,0.0,0
-105,256.0,2011,San Francisco County,mid,not eligible,0.0,0,0.676923076923077,44,0.0,0,0.3230769230769231,21
-106,257.0,2011,San Francisco County,mod,eligible,0.5930232558139535,51,0.0,0,0.4069767441860465,35,0.0,0
-107,258.0,2011,San Francisco County,mod,eligible,0.625,5,0.0,0,0.375,3,0.0,0
-108,259.0,2011,San Francisco County,mid,not eligible,0.0,0,0.5833333333333334,28,0.0,0,0.4166666666666667,20
-109,260.01,2011,San Francisco County,mod,eligible,0.5217391304347826,12,0.0,0,0.4782608695652174,11,0.0,0
-110,260.02,2011,San Francisco County,mod,eligible,0.45161290322580644,14,0.0,0,0.5483870967741935,17,0.0,0
-111,260.03,2011,San Francisco County,mid,not eligible,0.0,0,0.71875,23,0.0,0,0.28125,9
-112,260.04,2011,San Francisco County,mod,eligible,0.32,8,0.0,0,0.68,17,0.0,0
-113,261.0,2011,San Francisco County,mid,not eligible,0.0,0,0.5272727272727272,29,0.0,0,0.4727272727272727,26
-114,262.0,2011,San Francisco County,mid,not eligible,0.0,0,0.5063291139240507,40,0.0,0,0.4936708860759494,39
-115,263.01,2011,San Francisco County,mod,eligible,0.5666666666666667,17,0.0,0,0.43333333333333335,13,0.0,0
-116,263.02,2011,San Francisco County,mid,not eligible,0.0,0,0.6545454545454545,36,0.0,0,0.34545454545454546,19
-117,263.03,2011,San Francisco County,mod,eligible,0.5714285714285714,24,0.0,0,0.42857142857142855,18,0.0,0
-118,264.01,2011,San Francisco County,mod,eligible,0.5517241379310345,16,0.0,0,0.4482758620689655,13,0.0,0
-119,264.02,2011,San Francisco County,mod,eligible,0.4,14,0.0,0,0.6,21,0.0,0
-120,264.03,2011,San Francisco County,mod,eligible,0.5454545454545454,12,0.0,0,0.45454545454545453,10,0.0,0
-121,264.04,2011,San Francisco County,mod,eligible,0.29411764705882354,5,0.0,0,0.7058823529411765,12,0.0,0
-122,301.01,2011,San Francisco County,mid,not eligible,0.0,0,0.9591836734693877,47,0.0,0,0.04081632653061224,2
-123,301.02,2011,San Francisco County,high,not eligible,0.0,0,0.9473684210526315,36,0.0,0,0.05263157894736842,2
-124,302.01,2011,San Francisco County,mid,not eligible,0.0,0,1.0,17,0.0,0,0.0,0
-125,302.02,2011,San Francisco County,mid,not eligible,0.0,0,0.9696969696969697,32,0.0,0,0.030303030303030304,1
-126,303.01,2011,San Francisco County,mid,not eligible,0.0,0,0.9846153846153847,64,0.0,0,0.015384615384615385,1
-127,303.02,2011,San Francisco County,high,not eligible,0.0,0,0.9516129032258065,59,0.0,0,0.04838709677419355,3
-128,304.0,2011,San Francisco County,high,not eligible,0.0,0,1.0,58,0.0,0,0.0,0
-129,305.0,2011,San Francisco County,high,not eligible,0.0,0,0.94,47,0.0,0,0.06,3
-130,306.0,2011,San Francisco County,high,not eligible,0.0,0,1.0,44,0.0,0,0.0,0
-131,307.0,2011,San Francisco County,high,not eligible,0.0,0,0.925,111,0.0,0,0.075,9
-132,308.0,2011,San Francisco County,high,not eligible,0.0,0,0.9736842105263158,74,0.0,0,0.02631578947368421,2
-133,309.0,2011,San Francisco County,high,not eligible,0.0,0,0.9324324324324325,69,0.0,0,0.06756756756756757,5
-134,310.0,2011,San Francisco County,high,not eligible,0.0,0,0.9298245614035088,53,0.0,0,0.07017543859649122,4
-135,311.0,2011,San Francisco County,mid,not eligible,0.0,0,0.7352941176470589,50,0.0,0,0.2647058823529412,18
-136,312.0,2011,San Francisco County,mid,not eligible,0.0,0,0.5283018867924528,28,0.0,0,0.4716981132075472,25
-137,313.0,2011,San Francisco County,mid,not eligible,0.0,0,0.4552238805970149,61,0.0,0,0.5447761194029851,73
-138,314.0,2011,San Francisco County,mid,not eligible,0.0,0,0.38,38,0.0,0,0.62,62
-139,326.0,2011,San Francisco County,mid,not eligible,0.0,0,0.8813559322033898,52,0.0,0,0.11864406779661017,7
-140,327.0,2011,San Francisco County,mid,not eligible,0.0,0,0.8787878787878788,58,0.0,0,0.12121212121212122,8
-141,328.0,2011,San Francisco County,mid,not eligible,0.0,0,0.8333333333333334,40,0.0,0,0.16666666666666666,8
-142,329.0,2011,San Francisco County,mid,not eligible,0.0,0,0.865979381443299,84,0.0,0,0.13402061855670103,13
-143,330.0,2011,San Francisco County,mid,not eligible,0.0,0,0.8681318681318682,79,0.0,0,0.13186813186813187,12
-144,331.0,2011,San Francisco County,mid,not eligible,0.0,0,0.9583333333333334,46,0.0,0,0.041666666666666664,2
-145,351.0,2011,San Francisco County,mid,not eligible,0.0,0,0.7954545454545454,35,0.0,0,0.20454545454545456,9
-146,352.01,2011,San Francisco County,mid,not eligible,0.0,0,0.84,42,0.0,0,0.16,8
-147,352.02,2011,San Francisco County,mod,eligible,0.7352941176470589,25,0.0,0,0.2647058823529412,9,0.0,0
-148,353.0,2011,San Francisco County,mid,not eligible,0.0,0,0.7375,59,0.0,0,0.2625,21
-149,354.0,2011,San Francisco County,mid,not eligible,0.0,0,0.8378378378378378,62,0.0,0,0.16216216216216217,12
-150,401.0,2011,San Francisco County,mid,not eligible,0.0,0,1.0,14,0.0,0,0.0,0
-151,402.0,2011,San Francisco County,mid,not eligible,0.0,0,0.9354838709677419,29,0.0,0,0.06451612903225806,2
-152,426.0,2011,San Francisco County,mid,not eligible,0.0,0,0.9423076923076923,49,0.0,0,0.057692307692307696,3
-153,427.0,2011,San Francisco County,mid,not eligible,0.0,0,0.9166666666666666,22,0.0,0,0.08333333333333333,2
-154,428.0,2011,San Francisco County,high,not eligible,0.0,0,1.0,38,0.0,0,0.0,0
-155,451.0,2011,San Francisco County,mod,eligible,0.8292682926829268,34,0.0,0,0.17073170731707318,7,0.0,0
-156,452.0,2011,San Francisco County,mid,not eligible,0.0,0,1.0,43,0.0,0,0.0,0
-157,476.0,2011,San Francisco County,mid,not eligible,0.0,0,0.9714285714285714,34,0.0,0,0.02857142857142857,1
-158,477.01,2011,San Francisco County,mod,eligible,0.9333333333333333,28,0.0,0,0.06666666666666667,2,0.0,0
-159,477.02,2011,San Francisco County,mid,not eligible,0.0,0,0.9230769230769231,24,0.0,0,0.07692307692307693,2
-160,478.0,2011,San Francisco County,mid,not eligible,0.0,0,0.7272727272727273,24,0.0,0,0.2727272727272727,9
-161,479.01,2011,San Francisco County,mid,not eligible,0.0,0,0.8313253012048193,69,0.0,0,0.1686746987951807,14
-162,479.02,2011,San Francisco County,mid,not eligible,0.0,0,0.9411764705882353,32,0.0,0,0.058823529411764705,2
-163,602.0,2011,San Francisco County,high,not eligible,0.0,0,0.5,1,0.0,0,0.5,1
-164,604.0,2011,San Francisco County,mid,not eligible,0.0,0,0.9230769230769231,12,0.0,0,0.07692307692307693,1
-165,605.01,2011,San Francisco County,mid,not eligible,0.0,0,0.7,7,0.0,0,0.3,3
-166,605.02,2011,San Francisco County,low,eligible,0.25,3,0.0,0,0.75,9,0.0,0
-167,606.0,2011,San Francisco County,mod,eligible,0.0,0,0.0,0,1.0,1,0.0,0
-168,607.0,2011,San Francisco County,low,eligible,0.7777777777777778,126,0.0,0,0.2222222222222222,36,0.0,0
-169,609.0,2011,San Francisco County,mod,eligible,1.0,3,0.0,0,0.0,0,0.0,0
-170,610.0,2011,San Francisco County,mod,eligible,0.6292134831460674,56,0.0,0,0.3707865168539326,33,0.0,0
+Tract,Year,County,type,CRA Eligible,"% HI borrower, LI tract","# HI borrower, LI tract","% HI borrower, HI tract","# HI borrower, HI tract","% LI borrower, LI tract","# LI borrower, LI tract","%LI borrower, HI tract","# LI borrower, HI tract",Geoid
+101.0,2011,San Francisco County,mod,eligible,0.9655172413793104,28,0.0,0,0.0,0,0.0,0,608510100
+102.0,2011,San Francisco County,high,not eligible,0.0,0,0.9565217391304348,66,0.0,0,0.0,0,608510200
+103.0,2011,San Francisco County,mid,not eligible,0.0,0,1.0,31,0.0,0,0.0,0,608510300
+104.0,2011,San Francisco County,mid,not eligible,0.0,0,0.8333333333333334,55,0.0,0,0.0,0,608510400
+105.0,2011,San Francisco County,high,not eligible,0.0,0,1.0,30,0.0,0,0.0,0,608510500
+106.0,2011,San Francisco County,mod,eligible,0.8125,13,0.0,0,0.0,0,0.0,0,608510600
+107.0,2011,San Francisco County,low,eligible,1.0,5,0.0,0,0.0,0,0.0,0,608510700
+108.0,2011,San Francisco County,mod,eligible,0.9090909090909091,30,0.0,0,0.0,0,0.0,0,608510800
+109.0,2011,San Francisco County,mid,not eligible,0.0,0,0.95,38,0.0,0,0.0,0,608510900
+110.0,2011,San Francisco County,mod,eligible,0.7307692307692307,19,0.0,0,0.0,0,0.0,0,608511000
+111.0,2011,San Francisco County,low,eligible,0.8260869565217391,19,0.0,0,0.0,0,0.0,0,608511100
+112.0,2011,San Francisco County,mid,not eligible,0.0,0,0.9459459459459459,35,0.0,0,0.0,0,608511200
+113.0,2011,San Francisco County,low,eligible,0.9285714285714286,13,0.0,0,0.0,0,0.0,0,608511300
+114.0,2011,San Francisco County,low,eligible,1.0,4,0.0,0,0.0,0,0.0,0,608511400
+115.0,2011,San Francisco County,low,eligible,1.0,3,0.0,0,0.0,0,0.0,0,608511500
+117.0,2011,San Francisco County,low,eligible,0.7857142857142857,11,0.0,0,0.0,0,0.0,0,608511700
+118.0,2011,San Francisco County,low,eligible,1.0,1,0.0,0,0.0,0,0.0,0,608511800
+119.0,2011,San Francisco County,mod,eligible,0.8222222222222222,37,0.0,0,0.0,0,0.0,0,608511900
+120.0,2011,San Francisco County,low,eligible,0.8529411764705882,29,0.0,0,0.0,0,0.0,0,608512000
+121.0,2011,San Francisco County,mod,eligible,0.7727272727272727,17,0.0,0,0.0,0,0.0,0,608512100
+122.0,2011,San Francisco County,low,eligible,0.7692307692307693,20,0.0,0,0.0,0,0.0,0,608512200
+123.0,2011,San Francisco County,low,eligible,1.0,6,0.0,0,0.0,0,0.0,0,608512300
+124.0,2011,San Francisco County,low,eligible,0.6764705882352942,23,0.0,0,0.0,0,0.0,0,608512400
+125.0,2011,San Francisco County,low,eligible,0.8,4,0.0,0,0.0,0,0.0,0,608512500
+126.0,2011,San Francisco County,high,not eligible,0.0,0,0.9466666666666667,71,0.0,0,0.0,0,608512600
+127.0,2011,San Francisco County,high,not eligible,0.0,0,0.9696969696969697,32,0.0,0,0.0,0,608512700
+128.0,2011,San Francisco County,high,not eligible,0.0,0,0.9473684210526315,54,0.0,0,0.0,0,608512800
+129.0,2011,San Francisco County,mid,not eligible,0.0,0,0.9574468085106383,45,0.0,0,0.0,0,608512900
+130.0,2011,San Francisco County,high,not eligible,0.0,0,0.9767441860465116,42,0.0,0,0.0,0,608513000
+131.0,2011,San Francisco County,high,not eligible,0.0,0,0.967741935483871,60,0.0,0,0.0,0,608513100
+132.0,2011,San Francisco County,high,not eligible,0.0,0,1.0,50,0.0,0,0.0,0,608513200
+133.0,2011,San Francisco County,high,not eligible,0.0,0,0.9607843137254902,49,0.0,0,0.0,0,608513300
+134.0,2011,San Francisco County,high,not eligible,0.0,0,0.975,39,0.0,0,0.0,0,608513400
+135.0,2011,San Francisco County,high,not eligible,0.0,0,0.9705882352941176,33,0.0,0,0.0,0,608513500
+151.0,2011,San Francisco County,mid,not eligible,0.0,0,0.9354838709677419,29,0.0,0,0.0,0,608515100
+152.0,2011,San Francisco County,mid,not eligible,0.0,0,0.9811320754716981,52,0.0,0,0.0,0,608515200
+153.0,2011,San Francisco County,high,not eligible,0.0,0,0.9583333333333334,23,0.0,0,0.0,0,608515300
+154.0,2011,San Francisco County,mid,not eligible,0.0,0,0.9523809523809523,60,0.0,0,0.0,0,608515400
+155.0,2011,San Francisco County,mod,eligible,0.95,19,0.0,0,0.0,0,0.0,0,608515500
+156.0,2011,San Francisco County,mid,not eligible,0.0,0,0.9444444444444444,17,0.0,0,0.0,0,608515600
+157.0,2011,San Francisco County,mid,not eligible,0.0,0,1.0,64,0.0,0,0.0,0,608515700
+158.0,2011,San Francisco County,mod,eligible,0.8666666666666667,39,0.0,0,0.0,0,0.0,0,608515800
+159.0,2011,San Francisco County,mod,eligible,0.95,19,0.0,0,0.0,0,0.0,0,608515900
+160.0,2011,San Francisco County,mod,eligible,0.775,31,0.0,0,0.0,0,0.0,0,608516000
+161.0,2011,San Francisco County,low,eligible,0.8888888888888888,8,0.0,0,0.0,0,0.0,0,608516100
+162.0,2011,San Francisco County,mod,eligible,1.0,14,0.0,0,0.0,0,0.0,0,608516200
+163.0,2011,San Francisco County,low,eligible,0.8,20,0.0,0,0.0,0,0.0,0,608516300
+164.0,2011,San Francisco County,mod,eligible,1.0,35,0.0,0,0.0,0,0.0,0,608516400
+165.0,2011,San Francisco County,mod,eligible,1.0,35,0.0,0,0.0,0,0.0,0,608516500
+166.0,2011,San Francisco County,mid,not eligible,0.0,0,0.9777777777777777,44,0.0,0,0.0,0,608516600
+167.0,2011,San Francisco County,mid,not eligible,0.0,0,0.9298245614035088,53,0.0,0,0.0,0,608516700
+168.0,2011,San Francisco County,mod,eligible,0.8709677419354839,54,0.0,0,0.0,0,0.0,0,608516800
+169.0,2011,San Francisco County,mid,not eligible,0.0,0,0.9791666666666666,47,0.0,0,0.0,0,608516900
+170.0,2011,San Francisco County,high,not eligible,0.0,0,0.9693877551020408,95,0.0,0,0.0,0,608517000
+171.0,2011,San Francisco County,high,not eligible,0.0,0,0.9896907216494846,96,0.0,0,0.0,0,608517100
+176.01,2011,San Francisco County,low,eligible,0.82,41,0.0,0,0.0,0,0.0,0,608517601
+176.02,2011,San Francisco County,mod,eligible,0.9402985074626866,126,0.0,0,0.0,0,0.0,0,608517602
+177.0,2011,San Francisco County,mod,eligible,0.9333333333333333,14,0.0,0,0.0,0,0.0,0,608517700
+178.0,2011,San Francisco County,low,eligible,0.8,132,0.0,0,0.0,0,0.0,0,608517800
+179.01,2011,San Francisco County,high,not eligible,0.0,0,0.9742120343839542,340,0.0,0,0.0,0,608517901
+180.0,2011,San Francisco County,mod,eligible,0.8636363636363636,76,0.0,0,0.0,0,0.0,0,608518000
+201.0,2011,San Francisco County,low,eligible,0.7959183673469388,39,0.0,0,0.0,0,0.0,0,608520100
+202.0,2011,San Francisco County,mod,eligible,0.95,38,0.0,0,0.0,0,0.0,0,608520200
+203.0,2011,San Francisco County,mid,not eligible,0.0,0,0.9038461538461539,47,0.0,0,0.0,0,608520300
+204.0,2011,San Francisco County,high,not eligible,0.0,0,0.989247311827957,92,0.0,0,0.0,0,608520400
+205.0,2011,San Francisco County,mid,not eligible,0.0,0,0.9487179487179487,37,0.0,0,0.0,0,608520500
+206.0,2011,San Francisco County,high,not eligible,0.0,0,1.0,80,0.0,0,0.0,0,608520600
+207.0,2011,San Francisco County,mid,not eligible,0.0,0,0.9833333333333333,59,0.0,0,0.0,0,608520700
+208.0,2011,San Francisco County,mod,eligible,0.9555555555555556,43,0.0,0,0.0,0,0.0,0,608520800
+209.0,2011,San Francisco County,mod,eligible,0.8648648648648649,32,0.0,0,0.0,0,0.0,0,608520900
+210.0,2011,San Francisco County,mod,eligible,0.9722222222222222,35,0.0,0,0.0,0,0.0,0,608521000
+211.0,2011,San Francisco County,high,not eligible,0.0,0,1.0,60,0.0,0,0.0,0,608521100
+212.0,2011,San Francisco County,high,not eligible,0.0,0,0.9516129032258065,59,0.0,0,0.0,0,608521200
+213.0,2011,San Francisco County,high,not eligible,0.0,0,0.9607843137254902,49,0.0,0,0.0,0,608521300
+214.0,2011,San Francisco County,high,not eligible,0.0,0,1.0,41,0.0,0,0.0,0,608521400
+215.0,2011,San Francisco County,mid,not eligible,0.0,0,0.9583333333333334,69,0.0,0,0.0,0,608521500
+216.0,2011,San Francisco County,high,not eligible,0.0,0,0.8493150684931506,62,0.0,0,0.0,0,608521600
+217.0,2011,San Francisco County,mid,not eligible,0.0,0,0.8333333333333334,30,0.0,0,0.0,0,608521700
+218.0,2011,San Francisco County,high,not eligible,0.0,0,0.9411764705882353,48,0.0,0,0.0,0,608521800
+226.0,2011,San Francisco County,mid,not eligible,0.0,0,0.9038461538461539,47,0.0,0,0.0,0,608522600
+227.01,2011,San Francisco County,high,not eligible,0.0,0,0.9333333333333333,56,0.0,0,0.0,0,608522701
+227.02,2011,San Francisco County,high,not eligible,0.0,0,1.0,32,0.0,0,0.0,0,608522702
+227.03,2011,San Francisco County,mod,eligible,0.7555555555555555,34,0.0,0,0.0,0,0.0,0,608522703
+228.01,2011,San Francisco County,mod,eligible,0.873015873015873,55,0.0,0,0.0,0,0.0,0,608522801
+228.02,2011,San Francisco County,mod,eligible,0.9333333333333333,14,0.0,0,0.0,0,0.0,0,608522802
+228.03,2011,San Francisco County,mod,eligible,0.96,24,0.0,0,0.0,0,0.0,0,608522803
+229.01,2011,San Francisco County,mod,eligible,0.9047619047619048,19,0.0,0,0.0,0,0.0,0,608522901
+229.02,2011,San Francisco County,mod,eligible,0.8421052631578947,16,0.0,0,0.0,0,0.0,0,608522902
+229.03,2011,San Francisco County,mod,eligible,0.7777777777777778,14,0.0,0,0.0,0,0.0,0,608522903
+230.01,2011,San Francisco County,mod,eligible,0.2631578947368421,10,0.0,0,0.0,0,0.0,0,608523001
+230.02,2011,San Francisco County,mod,eligible,0.5,15,0.0,0,0.0,0,0.0,0,608523002
+230.03,2011,San Francisco County,mod,eligible,0.34210526315789475,13,0.0,0,0.0,0,0.0,0,608523003
+231.01,2011,San Francisco County,low,eligible,0.55,11,0.0,0,0.0,0,0.0,0,608523101
+231.02,2011,San Francisco County,low,eligible,0.5142857142857142,18,0.0,0,0.0,0,0.0,0,608523102
+231.03,2011,San Francisco County,low,eligible,0.4,4,0.0,0,0.0,0,0.0,0,608523103
+232.0,2011,San Francisco County,mod,eligible,0.1891891891891892,14,0.0,0,0.0,0,0.0,0,608523200
+233.0,2011,San Francisco County,mid,not eligible,0.0,0,0.2534246575342466,37,0.0,0,0.0,0,608523300
+234.0,2011,San Francisco County,low,eligible,0.2972972972972973,11,0.0,0,0.0,0,0.0,0,608523400
+251.0,2011,San Francisco County,mod,eligible,0.9361702127659575,44,0.0,0,0.0,0,0.0,0,608525100
+252.0,2011,San Francisco County,mid,not eligible,0.0,0,0.9027777777777778,65,0.0,0,0.0,0,608525200
+253.0,2011,San Francisco County,mid,not eligible,0.0,0,0.9473684210526315,54,0.0,0,0.0,0,608525300
+254.01,2011,San Francisco County,mod,eligible,0.9743589743589743,38,0.0,0,0.0,0,0.0,0,608525401
+254.02,2011,San Francisco County,mid,not eligible,0.0,0,0.7719298245614035,44,0.0,0,0.0,0,608525402
+254.03,2011,San Francisco County,mod,eligible,0.9166666666666666,55,0.0,0,0.0,0,0.0,0,608525403
+255.0,2011,San Francisco County,mod,eligible,0.8653846153846154,90,0.0,0,0.0,0,0.0,0,608525500
+256.0,2011,San Francisco County,mid,not eligible,0.0,0,0.676923076923077,44,0.0,0,0.0,0,608525600
+257.0,2011,San Francisco County,mod,eligible,0.5930232558139535,51,0.0,0,0.0,0,0.0,0,608525700
+258.0,2011,San Francisco County,mod,eligible,0.625,5,0.0,0,0.0,0,0.0,0,608525800
+259.0,2011,San Francisco County,mid,not eligible,0.0,0,0.5833333333333334,28,0.0,0,0.0,0,608525900
+260.01,2011,San Francisco County,mod,eligible,0.5217391304347826,12,0.0,0,0.0,0,0.0,0,608526001
+260.02,2011,San Francisco County,mod,eligible,0.45161290322580644,14,0.0,0,0.0,0,0.0,0,608526002
+260.03,2011,San Francisco County,mid,not eligible,0.0,0,0.71875,23,0.0,0,0.0,0,608526002
+260.04,2011,San Francisco County,mod,eligible,0.32,8,0.0,0,0.0,0,0.0,0,608526004
+261.0,2011,San Francisco County,mid,not eligible,0.0,0,0.5272727272727272,29,0.0,0,0.0,0,608526100
+262.0,2011,San Francisco County,mid,not eligible,0.0,0,0.5063291139240507,40,0.0,0,0.0,0,608526200
+263.01,2011,San Francisco County,mod,eligible,0.5666666666666667,17,0.0,0,0.0,0,0.0,0,608526301
+263.02,2011,San Francisco County,mid,not eligible,0.0,0,0.6545454545454545,36,0.0,0,0.0,0,608526302
+263.03,2011,San Francisco County,mod,eligible,0.5714285714285714,24,0.0,0,0.0,0,0.0,0,608526302
+264.01,2011,San Francisco County,mod,eligible,0.5517241379310345,16,0.0,0,0.0,0,0.0,0,608526401
+264.02,2011,San Francisco County,mod,eligible,0.4,14,0.0,0,0.0,0,0.0,0,608526402
+264.03,2011,San Francisco County,mod,eligible,0.5454545454545454,12,0.0,0,0.0,0,0.0,0,608526402
+264.04,2011,San Francisco County,mod,eligible,0.29411764705882354,5,0.0,0,0.0,0,0.0,0,608526404
+301.01,2011,San Francisco County,mid,not eligible,0.0,0,0.9591836734693877,47,0.0,0,0.0,0,608530101
+301.02,2011,San Francisco County,high,not eligible,0.0,0,0.9473684210526315,36,0.0,0,0.0,0,608530102
+302.01,2011,San Francisco County,mid,not eligible,0.0,0,1.0,17,0.0,0,0.0,0,608530201
+302.02,2011,San Francisco County,mid,not eligible,0.0,0,0.9696969696969697,32,0.0,0,0.0,0,608530202
+303.01,2011,San Francisco County,mid,not eligible,0.0,0,0.9846153846153847,64,0.0,0,0.0,0,608530301
+303.02,2011,San Francisco County,high,not eligible,0.0,0,0.9516129032258065,59,0.0,0,0.0,0,608530302
+304.0,2011,San Francisco County,high,not eligible,0.0,0,1.0,58,0.0,0,0.0,0,608530400
+305.0,2011,San Francisco County,high,not eligible,0.0,0,0.94,47,0.0,0,0.0,0,608530500
+306.0,2011,San Francisco County,high,not eligible,0.0,0,1.0,44,0.0,0,0.0,0,608530600
+307.0,2011,San Francisco County,high,not eligible,0.0,0,0.925,111,0.0,0,0.0,0,608530700
+308.0,2011,San Francisco County,high,not eligible,0.0,0,0.9736842105263158,74,0.0,0,0.0,0,608530800
+309.0,2011,San Francisco County,high,not eligible,0.0,0,0.9324324324324325,69,0.0,0,0.0,0,608530900
+310.0,2011,San Francisco County,high,not eligible,0.0,0,0.9298245614035088,53,0.0,0,0.0,0,608531000
+311.0,2011,San Francisco County,mid,not eligible,0.0,0,0.7352941176470589,50,0.0,0,0.0,0,608531100
+312.0,2011,San Francisco County,mid,not eligible,0.0,0,0.5283018867924528,28,0.0,0,0.0,0,608531200
+313.0,2011,San Francisco County,mid,not eligible,0.0,0,0.4552238805970149,61,0.0,0,0.0,0,608531300
+314.0,2011,San Francisco County,mid,not eligible,0.0,0,0.38,38,0.0,0,0.0,0,608531400
+326.0,2011,San Francisco County,mid,not eligible,0.0,0,0.8813559322033898,52,0.0,0,0.0,0,608532600
+327.0,2011,San Francisco County,mid,not eligible,0.0,0,0.8787878787878788,58,0.0,0,0.0,0,608532700
+328.0,2011,San Francisco County,mid,not eligible,0.0,0,0.8333333333333334,40,0.0,0,0.0,0,608532800
+329.0,2011,San Francisco County,mid,not eligible,0.0,0,0.865979381443299,84,0.0,0,0.0,0,608532900
+330.0,2011,San Francisco County,mid,not eligible,0.0,0,0.8681318681318682,79,0.0,0,0.0,0,608533000
+331.0,2011,San Francisco County,mid,not eligible,0.0,0,0.9583333333333334,46,0.0,0,0.0,0,608533100
+351.0,2011,San Francisco County,mid,not eligible,0.0,0,0.7954545454545454,35,0.0,0,0.0,0,608535100
+352.01,2011,San Francisco County,mid,not eligible,0.0,0,0.84,42,0.0,0,0.0,0,608535201
+352.02,2011,San Francisco County,mod,eligible,0.7352941176470589,25,0.0,0,0.0,0,0.0,0,608535202
+353.0,2011,San Francisco County,mid,not eligible,0.0,0,0.7375,59,0.0,0,0.0,0,608535300
+354.0,2011,San Francisco County,mid,not eligible,0.0,0,0.8378378378378378,62,0.0,0,0.0,0,608535400
+401.0,2011,San Francisco County,mid,not eligible,0.0,0,1.0,14,0.0,0,0.0,0,608540100
+402.0,2011,San Francisco County,mid,not eligible,0.0,0,0.9354838709677419,29,0.0,0,0.0,0,608540200
+426.0,2011,San Francisco County,mid,not eligible,0.0,0,0.9423076923076923,49,0.0,0,0.0,0,608542600
+427.0,2011,San Francisco County,mid,not eligible,0.0,0,0.9166666666666666,22,0.0,0,0.0,0,608542700
+428.0,2011,San Francisco County,high,not eligible,0.0,0,1.0,38,0.0,0,0.0,0,608542800
+451.0,2011,San Francisco County,mod,eligible,0.8292682926829268,34,0.0,0,0.0,0,0.0,0,608545100
+452.0,2011,San Francisco County,mid,not eligible,0.0,0,1.0,43,0.0,0,0.0,0,608545200
+476.0,2011,San Francisco County,mid,not eligible,0.0,0,0.9714285714285714,34,0.0,0,0.0,0,608547600
+477.01,2011,San Francisco County,mod,eligible,0.9333333333333333,28,0.0,0,0.0,0,0.0,0,608547701
+477.02,2011,San Francisco County,mid,not eligible,0.0,0,0.9230769230769231,24,0.0,0,0.0,0,608547702
+478.0,2011,San Francisco County,mid,not eligible,0.0,0,0.7272727272727273,24,0.0,0,0.0,0,608547800
+479.01,2011,San Francisco County,mid,not eligible,0.0,0,0.8313253012048193,69,0.0,0,0.0,0,608547901
+479.02,2011,San Francisco County,mid,not eligible,0.0,0,0.9411764705882353,32,0.0,0,0.0,0,608547902
+602.0,2011,San Francisco County,high,not eligible,0.0,0,0.5,1,0.0,0,0.0,0,608560200
+604.0,2011,San Francisco County,mid,not eligible,0.0,0,0.9230769230769231,12,0.0,0,0.0,0,608560400
+605.01,2011,San Francisco County,mid,not eligible,0.0,0,0.7,7,0.0,0,0.0,0,608560501
+605.02,2011,San Francisco County,low,eligible,0.25,3,0.0,0,0.0,0,0.0,0,608560502
+606.0,2011,San Francisco County,mod,eligible,0.0,0,0.0,0,0.0,0,0.0,0,608560600
+607.0,2011,San Francisco County,low,eligible,0.7777777777777778,126,0.0,0,0.0,0,0.0,0,608560700
+609.0,2011,San Francisco County,mod,eligible,1.0,3,0.0,0,0.0,0,0.0,0,608560900
+610.0,2011,San Francisco County,mod,eligible,0.6292134831460674,56,0.0,0,0.0,0,0.0,0,608561000
