@@ -2,11 +2,13 @@
 
 Scripts and limited results from my senior Thesis for Urban Studies B.A. at UC Berkeley, for which I am advised my Carolina Reid. I employ statistical modeling techniques such as OLS regression and multinomial logit models to quantitatively investigate the effect of community development policy (Community Reinvestment Act) on "gentrification" and neighborhood change. 
 
-models:
+models: OLS-Models-all years.ipynb, UDP Multinomial Logistic Regression models.ipynb
 
-model data prep:
+model data prep: Model Data prep 2009.ipynb, Model Data prep 2013-2014 & Plots (to be separated).ipynb, Model Data prep 2015-2017 .ipynb
 
-mapping prep:
+mapping prep: Mappable files script.ipynb, Point Visualization.ipynb
+
+script for calcualting geographic neighbors: Neighbors script.ipynb
 
 
 
