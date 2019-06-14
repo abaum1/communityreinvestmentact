@@ -2,6 +2,18 @@
 
 Scripts and limited results from my senior Thesis for Urban Studies B.A. at UC Berkeley, for which I am advised my Carolina Reid. I employ statistical modeling techniques such as OLS regression and multinomial logit models to quantitatively investigate the effect of community development policy (Community Reinvestment Act) on "gentrification" and neighborhood change. 
 
+models:
+
+model data prep:
+
+mapping prep:
+
+
+
+
+
+Project Description
+
 The Community Reinvestment Act (CRA) was passed in 1977 as a means of mitigating the institutional effects of redlining, a practice encouraged by the Federal Housing Administration (FHA) from the 1930s to the 1970s. The FHA refused to ensure mortgage and home improvement loans made to neighborhoods with high populations of People of Color, as well as Jews and southern Italians. 
 
 The Home Mortgage Disclosure Act (1975) requires banks to report demographic and geographic information for all loans originated, purchased or denied. This data is published every year and is publicly available through the Consumer Financial Protection Bureau. Under the CRA, banks get credit for loans originated to low income borrowers OR in low income census tracts, providing an avenue for them to recive CRA credit for lending to middle and high income borrowers living in low income census tracts ("gentrifiers"). This theory is currently being debated in financial and community development circles, and this study provides an approach to quantitatively evaluate its relevance in the Bay Area.  
