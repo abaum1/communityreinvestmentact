@@ -24,6 +24,33 @@ The total number of loans originated in a tract is the dependent variable for th
 
 Urban Displacement Project, a UC Berkeley research initiative, has developed an 8 class typology for describing the extent and ways in which census tracts experience the complex effects of gentrification, displacement and exclusion. Low income census tracts are categorized as either not losing low income households, at risk of gentrification, or experiencing ongoing gentrification and displacement of low income households. Moderate to high income tracts are categorized as either not losing low income households, at risk of exclusion, experiencing ongoing exclusion, experiencing advanced exclusion, or experiencing advanced gentrification. 5 of these 8 classes are used as dependent variables in the a multinomial logit model. Since the focus of this research is on tracts that are near or below the eligibility threshold, middle and high income tracts at risk of exclusion, or experiencing ongoing or advanced exclusion were excluded from the model. The following five categories are used as classes in the multinomial logit model.
 
+Table 2: UDP Typology Definitions
+UDP Code
+Description
+CRA Eligibility
+Num Tracts
+1
+Low income census tracts that are not losing low income households (CRA eligible)
+Eligible
+217
+2
+Low income tracts at risk of gentrification and/or displacement
+Eligible
+154
+3
+Low income tracts experiencing ongoing gentrification and/or displacement
+Eligible
+196
+4
+Middle and high income tract that are not losing low income households 
+Ineligible
+113
+5
+Middle and high income tracts that are experiencing advanced gentrification
+Ineligible
+59
+
+
 
 Explanatory Variables
 Seven demographic covariates (pct non-hispanic white, pct with bachelor’s degree, pct below poverty level, pct owner occupied units, total number of housing units, median home value, median income) are included in the models based on their pertinence to existing theories of lending patterns and availability of data. Research suggests that the racial demographics of a tract influence how many loans are made in the tract due to the credit extending and restricting effects of discrimination, desirability and bank location. Housing market characteristics such as the share of single family homes, the share of owner occupied dwellings, median home value, size of the tract and number of housing units in the tract have also been shown to be related to the number of loan originations. CRA policy requiring banks to invest in middle and low income communities lies in the understanding that socioeconomic conditions effects their access to credit. 
